@@ -9,8 +9,8 @@
 year = 2100
 
 if year < 2000:
-	print("You are before or after the 21st Century")
+	print("You are before or after the 21st Century.")
 elif year > 2100:
-	print("You are before or after the 21st Century")
+	print("You are before or after the 21st Century.")
 else:
-	print("Welcome to the 21st Century")	
+	print("Welcome to the 21st Century.")	

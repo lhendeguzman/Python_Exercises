@@ -78,6 +78,7 @@ gone  gone  gone  im gone
 """.format("World")
 
 ## Splitting the lyrics into a list and counting the number of words ##
+print(baby_lyrics)
 lyrics = baby_lyrics.split()
 total_wordcount = len(lyrics)
 string1 = "Total Number of Words in the Song: {}".format(total_wordcount)
